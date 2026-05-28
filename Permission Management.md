@@ -34,7 +34,7 @@ Guest User : Temporary users with minimal privileges. Changes are not saved afte
 
 
 
-Commands
+#### **Commands**
 
 
 
@@ -76,11 +76,13 @@ usermod -l devops shub
 
 
 
-User Groups
-
-
+### **User Groups**
 
 A user group is a collection of users. If you give permission to a group, all users in that group get the same access. This makes it easier to manage file and system permissions for many users at once.
+
+
+
+#### **Types of Group** 
 
 
 
@@ -112,7 +114,7 @@ They are commonly used for team-based access or system-level permissions (e.g., 
 
 
 
-Commands
+#### **Commands**
 
 
 

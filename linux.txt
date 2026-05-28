@@ -1,0 +1,34 @@
+Linux Basic Commands
+
+Linux commands are used to interact with the operating system through the terminal and perform tasks like file management, navigation, and system monitoring. Learning basic Linux commands helps beginners understand how Linux works and use it efficiently for daily tasks.
+
+?Helps beginners understand and use the Linux terminal effectively
+?Covers commonly used commands for files, directories, and system tasks
+?Useful for students, developers, and system administrators
+?Builds a strong foundation for advanced Linux and server management
+
+Linux File System Hierarchy 
+/ – Root directory (starting point of filesystem) 
+/root – Home directory for root (superuser) 
+/bin – User binaries (basic system commands) 
+/sbin – System binaries (administrative commands) 
+/dev – Device files 
+/var – Variable data (logs, mail, temp files) 
+/mnt – Temporary mount point 
+/media – Removable media devices 
+/usr – User applications and binaries 
+/etc – Configuration files 
+/boot – Boot loader and kernel files 
+/opt – Optional third party applications 
+/home – Users home directories 
+/tmp – Temporary files (deleted on reboot) 
+Basic Linux Commands 
+pwd – Show present working directory 
+ls – List files and directories 
+uname – Show kernel name 
+uname -r – Show kernel version 
+cd – Change directory 
+clear – Clear terminal screen 
+whoami – Show logged-in user 
+history – Show command history 
+date – Show system date and time
